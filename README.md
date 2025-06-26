@@ -6,7 +6,7 @@
 
 ## 🚀 About Me
 
-I'm a passionate **Final Year Computer Science student** at FCRIT University with a love for building innovative solutions. I thrive on solving complex problems and creating impactful software that makes a difference.
+I'm a passionate **Final Year Computer Science student** at FCRIT with a love for building innovative solutions. I thrive on solving complex problems and creating impactful software that makes a difference.
 
 ### 🎯 What I Do
 - 🔧 **Full Stack Development** - Building end-to-end applications with modern technologies
