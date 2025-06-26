@@ -55,56 +55,6 @@ I'm a passionate **Final Year Computer Science student** at FCRIT University wit
 
 </div>
 
-## 📊 GitHub Statistics
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=react&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF&text_color=FFFFFF" alt="GitHub Stats" height="180"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=react&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=FFFFFF" alt="Top Languages" height="180"/>
-</div>
 
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=react&hide_border=true&stroke=0000&background=0D1117&ring=00D9FF&fire=00D9FF&currStreakLabel=00D9FF" alt="GitHub Streak"/>
-</div>
 
-## 🏃‍♂️ Current Focus
-
-```javascript
-const savio = {
-    currentFocus: [
-        "Completing my final year with excellence",
-        "Contributing to C4GT'24 projects",
-        "Building full-stack applications",
-        "Exploring cloud-native technologies"
-    ],
-    lookingForOpportunities: [
-        "Full Stack Developer roles",
-        "Open Source contributions",
-        "Tech community collaborations",
-        "Innovative project partnerships"
-    ],
-    funFact: "I believe the best code is not just functional, but elegant! ✨"
-};
-```
-
-## 💬 Let's Connect & Collaborate!
-
-I'm always excited to discuss technology, algorithms, open source projects, and innovative solutions. Whether you want to brainstorm ideas, collaborate on projects, or just have a tech chat, I'm here for it!
-
-### 🤝 Open to:
-- **Technical Discussions** - Algorithms, system design, best practices
-- **Open Source Collaborations** - Contributing to meaningful projects
-- **Project Partnerships** - Building something amazing together
-- **Mentorship Exchange** - Learning and sharing knowledge
-
-### 📫 Reach Out:
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:diassavio629@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/YOUR_LINKEDIN)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/YOUR_TWITTER)
-
----
-
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=Profile%20Views&color=00D9FF&style=flat" alt="Profile Views" />
-  
-  **"Code is poetry written in logic" - Let's create something beautiful together! 🚀**
-</div>
