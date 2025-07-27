@@ -40,7 +40,7 @@ I am a dedicated and results-driven Computer Science student at FCRIT, currently
 
 ## Education
 
-- **B.Tech Computer Science**  
+- **BE Computer Science**  
   Fr. C. Rodrigues Institute of Technology (FCRIT), Final Year
 
 ---
@@ -51,6 +51,7 @@ I am a dedicated and results-driven Computer Science student at FCRIT, currently
 - Algorithms & Data Structures
 - Web Development
 - System Design & Architecture
+- Generative AI & Agentic AI
 
 ---
 
