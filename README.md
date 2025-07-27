@@ -9,9 +9,35 @@
 I'm a passionate **Final Year Computer Science student** at FCRIT with a love for building innovative solutions. I thrive on solving complex problems and creating impactful software that makes a difference.
 
 ### 🎯 What I Do
-- 🔧 **Full Stack Development** - Building end-to-end applications with modern technologies
-- 💡 **Problem Solving** - Love tackling algorithmic challenges and system design problems
-- 🤝 **Learning & Growing** - Continuously expanding my technical knowledge and skills
+
+- 🔧 **Full Stack Development**  
+  Building scalable web and mobile applications using:
+  - **Frontend**: React.js, Next.js, Vite, React Native, HTML, CSS, Tailwind CSS, Bootstrap  
+  - **Backend**: Node.js, Express.js, Flask  
+  - **Databases**: MongoDB, MySQL, Firebase
+
+- 🤖 **AI/ML & LLM Integration**  
+  - Experience working with Machine Learning models and integrating **Generative AI** (LLM-based) into real-world applications.
+
+- 🚀 **DevOps & Deployment**  
+  - Hands-on experience with cloud platforms and CI/CD tools:
+    - **AWS** (EC2, S3, Lambda)
+    - **Docker**
+    - **Netlify**, **Vercel**
+
+- 💡 **Problem Solving**  
+  - Strong foundation in **Data Structures & Algorithms**, and systems-level thinking.  
+  - Passionate about solving real-world challenges with efficient code.
+
+- 🛠️ **Tools & Methodologies**  
+  - Developer tools & workflow:
+    - **Git**, **GitHub**, **Postman**
+    - **JIRA**, **Google Colab**
+    - **RESTful APIs**, **Agile Development**
+
+- 💻 **Languages**  
+  - Proficient in: **C/C++**, **JavaScript**, **Java**, **Python**
+
 
 ## 🎓 Education
 
