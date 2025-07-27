@@ -1,4 +1,4 @@
-# Tanmay Chavan
+<h1 align="center">Hi 👋, I'm Tanmay Chavan</h1>
 
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;Computer+Science+Student;Problem+Solver;AI/ML+Enthusiast" alt="Profile Typing SVG">
@@ -24,7 +24,7 @@ I am a dedicated and results-driven Computer Science student at FCRIT, currently
   - Experience with ML models and integration of Generative AI (LLM-based) into applications.
 
 - **DevOps & Cloud Deployment:**  
-  - Proficient with AWS (EC2, S3, Lambda), Docker, Netlify, Vercel, and CI/CD pipelines.
+  - Proficient with AWS (EC2, S3, Lambda), Docker, Netlify, Vercel.
 
 - **Software Engineering & Problem Solving:**  
   - Strong foundation in Data Structures & Algorithms  
